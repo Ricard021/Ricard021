@@ -13,7 +13,8 @@
 
 ## 🌐 Redes y contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-romero-analista-de-datos) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romero21052004@gmail.com?subject=Contacto%20desde%20tu%20GitHub&body=Hola%20Ricardo%2C%20me%20interesa%20tu%20trabajo...)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=romero21052004@gmail.com&su=Oportunidad%20Laboral%20%2F%20Colaboraci%C3%B3n&body=Hola%20Ricardo%2C%0A%0AQueremos%20contactarte%20por%20una%20posible%20oportunidad%20laboral%20/%20colaboraci%C3%B3n.%20Quedamos%20atentos%20a%20tu%20respuesta.%0A%0ASaludos.)
+
 
 ---
 
