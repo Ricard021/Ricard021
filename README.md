@@ -1,5 +1,5 @@
-# 💫 About Me:
-Soy un apasionado por las matemáticas, la programación y la ciencia de datos, con un enfoque analítico y científico respaldado por el uso de herramientas como Python, LaTeX y Power BI. Mi trabajo se centra en el análisis de datos aplicados a problemas reales, con interés en el aprendizaje automático y la visualización de información. He participado en retos académicos como el Data Challenge de la Universidad del Norte, desarrollando proyectos con impacto social y técnico. Actualmente estoy en constante formación para convertirme en ingeniero de machine learning, integrando conocimientos en bases de datos, modelado matemático y desarrollo de software.
+# 💫 Hola, soy Ricardo:
+Apasionado por las matemáticas, la programación y la ciencia de datos, con un enfoque analítico y científico respaldado por el uso de herramientas como Python, LaTeX y Power BI. Mi trabajo se centra en el análisis de datos aplicados a problemas reales, con interés en el aprendizaje automático y la visualización de información. He participado en retos académicos como el Data Challenge de la Universidad del Norte, desarrollando proyectos con impacto social y técnico. Actualmente estoy en constante formación para convertirme en ingeniero de machine learning, integrando conocimientos en bases de datos, modelado matemático y desarrollo de software.
 
 
 ## 🌐 Socials:
