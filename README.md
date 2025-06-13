@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  Apasionado por las matemáticas, la programación y la ciencia de datos, con un enfoque analítico y científico respaldado por herramientas como Python, LaTeX y Power BI. <br>
-  Mi trabajo se centra en el análisis de datos aplicados a problemas reales, con interés en el aprendizaje automático y la visualización de información.<br>
-  He participado en retos académicos como el <strong>Data Challenge de la Universidad del Norte</strong>, desarrollando proyectos con impacto social y técnico.<br>
-  Actualmente estoy en constante formación para convertirme en ingeniero de machine learning, integrando conocimientos en bases de datos, modelado matemático y desarrollo de software.
+  Apasionado por las matemáticas, la programación y la ciencia de datos, con un enfoque analítico y científico respaldado por el uso de herramientas como Python, LaTeX y Power BI. Mi trabajo se centra en el análisis de datos aplicados a problemas reales, con interés en el aprendizaje automático y la visualización de información. He participado en retos académicos como el Data Challenge de la Universidad del Norte, desarrollando proyectos con impacto social y técnico. Actualmente estoy en constante formación para convertirme en especialista de machine learning, integrando conocimientos en bases de datos, modelado matemático y desarrollo de software.
 </p>
 
 ---
@@ -48,7 +45,7 @@
 
 ## 💡 Frase inspiradora
 
-> "En lugar de tratar de hacer que una máquina piense como un ser humano, deberíamos hacer que el ser humano piense un poco más como una máquina."  
+> "Aquello que una máquina puede hacer, también puede hacerlo la mente humana si se lo propone."  
 > — <em>Alan Turing</em>
 
 ---
