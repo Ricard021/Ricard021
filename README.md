@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Redes y contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ricardo-romero-analista-de-datos) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-romero-analista-de-datos) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](romero21052004@gmail.com) 
 
 ---
